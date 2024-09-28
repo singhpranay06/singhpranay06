@@ -10,7 +10,7 @@ I am an enthusiastic final-year Computer Science Engineering student at Bangalor
 4. Developed a Point Quadtree simulation in C++ and OpenCV, achieving 98% accuracy in spatial data storage and elevating visualization quality by 20%.
 
 5. Designed a Railway Route Optimization app using Dijkstra's Algorithm, resulting in a 15% reduction in travel time and achieving a 93% accuracy rate.
-- 📫 How to reach me :- Mail me #pranaygreen2@gmail.com
+- 📫 How to reach me :- Mail me #pranay.green002@gmail.com
 
 <!---
 singhpranay06/singhpranay06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
