@@ -1,4 +1,4 @@
-I am an enthusiastic final-year Computer Science Engineering student at Bangalore Institute of Technology. I am proficient in C, C++, Python, HTML, CSS, JavaScript, React.js, Java, MongoDB, and OpenCV. I have experience in web app development and app development.
+I am an enthusiastic final-year Computer Science Engineering student at Bangalore Institute of Technology. I am proficient in C, C++, Python, HTML, CSS, JavaScript, React.js, Java, MongoDB, MySQL, Nodejs and OpenCV. I have experience in web app development and app development.
 
 🌟 Project Highlights:
 1. Led a cross-functional team to victory in HackFest'23, developing an Android app with 98.5% accuracy in millimeter-scale dimensional measurements and enhancing processing speed by 30%.
